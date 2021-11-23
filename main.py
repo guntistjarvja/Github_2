@@ -5,5 +5,7 @@ print(Mans vārds ir Ričards)
 print("Mans vārds ir Laura")
 print("Mans vārds ir Laimonis")
 print("Pievienoju jaunu vārdu")
-
+print("Pievienoju jaunu vārdu")
+print("Pievienoju jaunu vārdu")
+print("Pievienoju jaunu vārdu")
 
